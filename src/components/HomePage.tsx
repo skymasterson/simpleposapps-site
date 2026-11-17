@@ -327,12 +327,7 @@ export function HomePage({ onNavigate }: HomePageProps) {
                   </ul>
                 </div>
 
-                <div className="mt-6 pt-5 border-t border-slate-200 space-y-4">
-                  <div className="text-xs text-slate-600">
-                    <span className="font-semibold text-slate-950">Architecture:</span> Google
-                    Sign-In for PMs · Public <span className="font-mono">/t/&#123;token&#125;</span>{' '}
-                    links · Twilio 1-800 SMS
-                  </div>
+                <div className="mt-6 pt-5 border-t border-slate-200">
                   <div className="flex flex-wrap items-center gap-3 text-xs font-semibold">
                     <button
                       type="button"

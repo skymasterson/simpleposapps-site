@@ -321,8 +321,7 @@ export function LegalPages({ docKind, onNavigate }: LegalPagesProps) {
                     className="text-blue-700 font-semibold underline"
                   >
                     {COMPANY_INFO.supportEmail}
-                  </a>{' '}
-                  or call {COMPANY_INFO.supportPhone}.
+                  </a>.
                 </p>
               </section>
             </>
