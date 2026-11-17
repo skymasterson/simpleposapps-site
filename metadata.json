@@ -1,0 +1,6 @@
+{
+  "name": "Simple POS Apps",
+  "description": "Simple SaaS software for restaurants, retail merchants on Clover POS, and property managers with FixedList.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
